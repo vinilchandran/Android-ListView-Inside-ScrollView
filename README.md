@@ -27,6 +27,6 @@ You can use the following function for solving the problem arise when putting a 
 After setting the adapter to the ListView, just call this function by passing the ListView object as the parameter as follows.
 
 ```java
-myListView.setAdapter(adapter);
-setListViewHeightBasedOnChildren(myListView);
+	myListView.setAdapter(adapter);
+	setListViewHeightBasedOnChildren(myListView);
 ```
