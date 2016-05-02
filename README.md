@@ -1,6 +1,6 @@
 # Android ListView Inside ScrollView
 
-You can use the following function for solving the problem arise when putting a ListView inside a ScrollView. This will help you to set the heught of ListView depends on the item sum of list item height.
+You can use the following function for solving the problem arise when putting a ListView inside a ScrollView. This will help you to set the height of ListView depends on the item sum of list item height.
 
 ```java
 
